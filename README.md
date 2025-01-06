@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with a 2 years of experience working with **ReactJS**. My passion for programming started with a desire to create interactive and dynamic web applications. I've always been fascinated by the ability to create beautiful and functional user interfaces. React.js allowed me to gain a deeper understanding of modern web application development and master cutting-edge technologies.
+I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with a 2 years of experience working with **ReactJS**. My passion for programming started with a desire to create interactive and dynamic web applications. I've always been fascinated by the ability to create beautiful and functional user interfaces. ReactJS allowed me to gain a deeper understanding of modern web application development and master cutting-edge technologies.
 
 - 🌐 Website: Testing
 - 🎓 Studying: Computer Science/Programming
