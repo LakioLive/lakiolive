@@ -4,7 +4,7 @@
 
 I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with a 2 years of experience working with **ReactJS**. My passion for programming started with a desire to create interactive and dynamic web applications. I've always been fascinated by the ability to create beautiful and functional user interfaces. ReactJS allowed me to gain a deeper understanding of modern web application development and master cutting-edge technologies.
 
-- 🌐 Website: Testing
+- 🌐 Website: [https://portfolio-lakio-live.vercel.app/](https://portfolio-lakio-live.vercel.app/)
 - 🎓 Studying: Computer Science/Programming
 
 -----
@@ -13,13 +13,13 @@ I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with 
 - 💻 HTML | CSS | SASS | Bootstrap | TailwindCSS | JavaScript | TypeScript | React | Redux | NextJS
 - 📱 React Native | Expo
 - 🐍 Python
-- 🗄️ MYSQL | SQLite
-- 🌐 PHP
+- 🗄️ MySQL | SQLite
+- 🌐 PHP | Laravel
 - 📄 Markdown
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,php,mysql,sqlite,py,md)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,php,laravel,mysql,sqlite,py,md)
 
 </div>
 
@@ -30,7 +30,7 @@ I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with 
 - 🗄️ Firebase | Supabase | Vercel
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 - 🔗 Git | GitHub | GitHub Actions
-- 📦 npm | Vite
+- 📦 npm | Vite | composer
 
 <div align="center">
   
