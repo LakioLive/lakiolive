@@ -12,21 +12,21 @@ I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with 
 ### 📔 Skills
 - 💻 HTML | CSS | SASS | Bootstrap | TailwindCSS | JavaScript | TypeScript | React | Redux | NextJS
 - 📱 React Native | Expo
-- 🐍 Python
-- 🗄️ MySQL | SQLite
 - 🌐 PHP | Laravel
+- 🗄️ MySQL | SQLite
+- 🐍 Python
 - 📄 Markdown
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,php,laravel,mysql,sqlite,py,md)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,reactnative,expo,php,laravel,mysql,sqlite,py,md)
 
 </div>
 
 ### ⚙️ Tools & OS
 
 - 💻 Windows | Linux (Arch)
-- ⌨️ VSCode | Obsidian
+- ⌨️ VSCode | PyCharm | PhpStorm | Obsidian
 - 🗄️ Firebase | Supabase | Vercel
 - 🎨 Adobe Photoshop | Adobe Illustrator | Figma
 - 🔗 Git | GitHub | GitHub Actions
@@ -34,7 +34,7 @@ I'm **LakioLive**, a passionate **Frontend Developer (Software Engineer)** with 
 
 <div align="center">
   
-![My Skills](https://skillicons.dev/icons?i=arch,vscode,obsidian,firebase,supabase,vercel,ai,ps,figma,git,github,githubactions,npm,vite)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,arch,vscode,pycharm,phpstorm,obsidian,firebase,supabase,vercel,ai,ps,figma,git,github,githubactions,npm,vite,composer)
 
 </div>
 
